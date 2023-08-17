@@ -4,6 +4,12 @@ A curated list of FMCW-LiDAR papers and resources.
 
 ## Paper
 
+Point Cloud Registration
+
+| Index | Paper Title                                     | Date | Reference | Code                                   | Device                                       |
+| ----- | ----------------------------------------------- | ---- | --------- | -------------------------------------- | -------------------------------------------- |
+| 1     | DICP: Doppler Iterative Closest Point Algorithm | 2022 | RSS       | https://github.com/aevainc/Doppler-ICP | Aeva Aeries I FMCW Lidar and CARLA simulator |
+
 #### Odomentry
 
 | Index | Paper Title                                                  | Date | Reference | Code                                   | Device                   | Provide Open Datasets？                                      |
@@ -17,7 +23,9 @@ A curated list of FMCW-LiDAR papers and resources.
 | ----- | ----------------------------------------------- | ---- | --------- | ---- | ------------------------ | ------------- |
 | 1     | Learning Moving-Object Tracking with FMCW LiDAR | 2022 | IROS      | NULL | Guangshao 2.0 FMCW LiDAR | NULL          |
 
-## Datasets
+## Datasets&simulator
+
+- CARLA simulator: https://github.com/aevainc/carla
 
 ## FMCW-LiDAR Device
 
