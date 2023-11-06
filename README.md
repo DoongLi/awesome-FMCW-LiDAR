@@ -4,7 +4,13 @@ A curated list of FMCW-LiDAR papers and resources.
 
 ## Paper
 
-Point Cloud Registration
+#### Datasets
+
+| Index | Paper Title                                                  | Date | Reference | Datasets Link                                | Device         |
+| ----- | ------------------------------------------------------------ | ---- | --------- | -------------------------------------------- | -------------- |
+| 1     | HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatial and Temporal Variations | 2023 | arXiv     | https://sites.google.com/view/heliprdataset/ | Aeva Aeries II |
+
+#### Point Cloud Registration
 
 | Index | Paper Title                                     | Date | Reference | Code                                   | Device                                       |
 | ----- | ----------------------------------------------- | ---- | --------- | -------------------------------------- | -------------------------------------------- |
@@ -23,7 +29,7 @@ Point Cloud Registration
 | ----- | ----------------------------------------------- | ---- | --------- | ---- | ------------------------ | ------------- |
 | 1     | Learning Moving-Object Tracking with FMCW LiDAR | 2022 | IROS      | NULL | Guangshao 2.0 FMCW LiDAR | NULL          |
 
-## Datasets&simulator
+## Simulator
 
 - CARLA simulator: https://github.com/aevainc/carla
 
