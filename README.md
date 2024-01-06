@@ -12,22 +12,34 @@ A curated list of FMCW-LiDAR papers and resources.
 
 #### Point Cloud Registration
 
-| Index | Paper Title                                     | Date | Reference | Code                                   | Device                                       |
-| ----- | ----------------------------------------------- | ---- | --------- | -------------------------------------- | -------------------------------------------- |
-| 1     | DICP: Doppler Iterative Closest Point Algorithm | 2022 | RSS       | https://github.com/aevainc/Doppler-ICP | Aeva Aeries I FMCW Lidar and CARLA simulator |
+| Index | Paper Title                                                  | Date | Reference                                                    | Code                                   | Device                                       |
+| ----- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | -------------------------------------- | -------------------------------------------- |
+| 1     | DICP: Doppler Iterative Closest Point Algorithm              | 2022 | RSS                                                          | https://github.com/aevainc/Doppler-ICP | Aeva Aeries I FMCW Lidar and CARLA simulator |
+| 2     | Extended Object Tracking with Doppler velocity-based Point Registration | 2023 | IEEE Symposium Sensor Data Fusion and International Conference on Multisensor Fusion and Integration | NULL                                   | AEVA’s Aeries II  FMCW LiDAR                 |
+|       |                                                              |      |                                                              |                                        |                                              |
 
 #### Odomentry
 
 | Index | Paper Title                                                  | Date | Reference | Code                                   | Device                   | Provide Open Datasets？                                      |
 | ----- | ------------------------------------------------------------ | ---- | --------- | -------------------------------------- | ------------------------ | ------------------------------------------------------------ |
 | 1     | Picking Up Speed: Continuous-Time Lidar-Only Odometry using Doppler Velocity Measurements | 2023 | RAL       | https://github.com/utiasASRL/steam_icp | Aeva Aeries I FMCW Lidar | [link](https://drive.google.com/file/d/1JpQNnXejow3qy1qp5tVzak9qnuFmjYHW/view) |
-| 2     | Need for Speed: Fast Correspondence-Free Lidar Odometry Using Doppler Velocity | 2023 | arXiv     | NULL                                   | Aeva Aeries I FMCW Lidar | NULL                                                         |
+| 2     | Need for Speed: Fast Correspondence-Free Lidar Odometry Using Doppler Velocity | 2023 | IROS      | NULL                                   | Aeva Aeries I FMCW Lidar | NULL                                                         |
 
 #### Detection/Segmentation/Tracking
 
 | Index | Paper Title                                     | Date | Reference | Code | Device                   | Open Datasets |
 | ----- | ----------------------------------------------- | ---- | --------- | ---- | ------------------------ | ------------- |
 | 1     | Learning Moving-Object Tracking with FMCW LiDAR | 2022 | IROS      | NULL | Guangshao 2.0 FMCW LiDAR | NULL          |
+
+#### Survey
+
+| Index | Paper Title                                                  | Date | Reference | Website |
+| ----- | ------------------------------------------------------------ | ---- | --------- | ------- |
+| 1     | LiDAR Odometry Survey: Recent Advancements and Remaining Challenges | 2023 | arXiv     | NULL    |
+|       |                                                              |      |           |         |
+|       |                                                              |      |           |         |
+
+
 
 ## Simulator
 
