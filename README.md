@@ -51,10 +51,6 @@ A curated list of FMCW-LiDAR papers and resources.
 |       |                                                              |                                                     |         |      |
 |       |                                                              |                                                     |         |      |
 
-
-
-- Applications of Mobile LiDAR for Ultra-High Resolution and GPS-Denied Terrain Mapping in Planetary Analog Environments, *NASA, 2023*
-
 ## FMCW-LiDAR Device
 
 - Guangshao 2.0 FMCW LiDAR：http://www.laserradar.cn/
