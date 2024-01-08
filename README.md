@@ -39,11 +39,21 @@ A curated list of FMCW-LiDAR papers and resources.
 |       |                                                              |      |           |         |
 |       |                                                              |      |           |         |
 
-
-
 ## Simulator
 
 - CARLA simulator: https://github.com/aevainc/carla
+
+## Application
+
+| Index | Paper/Project Title                                          | Reference                                           | Authors | Date |
+| ----- | ------------------------------------------------------------ | --------------------------------------------------- | ------- | ---- |
+| 1     | Applications of Mobile LiDAR for Ultra-High Resolution and GPS-Denied Terrain Mapping in Planetary Analog Environments | 54th Lunar and Planetary Science Conference (LPSC). | NASA    | 2023 |
+|       |                                                              |                                                     |         |      |
+|       |                                                              |                                                     |         |      |
+
+
+
+- Applications of Mobile LiDAR for Ultra-High Resolution and GPS-Denied Terrain Mapping in Planetary Analog Environments, *NASA, 2023*
 
 ## FMCW-LiDAR Device
 
