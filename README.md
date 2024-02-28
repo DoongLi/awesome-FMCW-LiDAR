@@ -35,7 +35,7 @@ A curated list of FMCW-LiDAR papers and resources.
 
 | Index | Paper Title                                                  | Date | Reference | Website |
 | ----- | ------------------------------------------------------------ | ---- | --------- | ------- |
-| 1     | LiDAR Odometry Survey: Recent Advancements and Remaining Challenges | 2023 | arXiv     | NULL    |
+| 1     | LiDAR Odometry Survey: Recent Advancements and Remaining Challenges | 2024 | Intelligent Service Robotics     | NULL    |
 |       |                                                              |      |           |         |
 |       |                                                              |      |           |         |
 
