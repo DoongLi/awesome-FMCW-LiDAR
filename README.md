@@ -8,7 +8,7 @@ A curated list of FMCW-LiDAR papers and resources.
 
 | Index | Paper Title                                                  | Date | Reference | Datasets Link                                | Device         |
 | ----- | ------------------------------------------------------------ | ---- | --------- | -------------------------------------------- | -------------- |
-| 1     | HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatial and Temporal Variations | 2023 | arXiv     | https://sites.google.com/view/heliprdataset/ | Aeva Aeries II |
+| 1     | HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatial and Temporal Variations | 2024 | IJRR     | https://sites.google.com/view/heliprdataset/ | Aeva Aeries II |
 
 #### Point Cloud Registration
 
