@@ -8,7 +8,7 @@ A curated list of FMCW-LiDAR papers and resources.
 
 | Index | Paper Title                                                  | Date | Reference | Datasets Link                                | Device         |
 | ----- | ------------------------------------------------------------ | ---- | --------- | -------------------------------------------- | -------------- |
-| 1     | HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatial and Temporal Variations | 2024 | IJRR     | https://sites.google.com/view/heliprdataset/ | Aeva Aeries II |
+| 1     | HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatial and Temporal Variations | 2024 | IJRR      | https://sites.google.com/view/heliprdataset/ | Aeva Aeries II |
 
 #### Point Cloud Registration
 
@@ -24,6 +24,7 @@ A curated list of FMCW-LiDAR papers and resources.
 | ----- | ------------------------------------------------------------ | ---- | --------- | -------------------------------------- | ------------------------ | ------------------------------------------------------------ |
 | 1     | Picking Up Speed: Continuous-Time Lidar-Only Odometry using Doppler Velocity Measurements | 2023 | RAL       | https://github.com/utiasASRL/steam_icp | Aeva Aeries I FMCW Lidar | [link](https://drive.google.com/file/d/1JpQNnXejow3qy1qp5tVzak9qnuFmjYHW/view) |
 | 2     | Need for Speed: Fast Correspondence-Free Lidar Odometry Using Doppler Velocity | 2023 | IROS      | NULL                                   | Aeva Aeries I FMCW Lidar | NULL                                                         |
+| 3     | FMCW-LIO: A Robust Doppler-Aided LiDAR-Inertial Odometry     | 2024 | RAL       | NULL                                   | ToDo                     | ToDo                                                         |
 
 #### Detection/Segmentation/Tracking
 
@@ -33,11 +34,11 @@ A curated list of FMCW-LiDAR papers and resources.
 
 #### Survey
 
-| Index | Paper Title                                                  | Date | Reference | Website |
-| ----- | ------------------------------------------------------------ | ---- | --------- | ------- |
-| 1     | LiDAR Odometry Survey: Recent Advancements and Remaining Challenges | 2024 | Intelligent Service Robotics     | NULL    |
-|       |                                                              |      |           |         |
-|       |                                                              |      |           |         |
+| Index | Paper Title                                                  | Date | Reference                    | Website |
+| ----- | ------------------------------------------------------------ | ---- | ---------------------------- | ------- |
+| 1     | LiDAR Odometry Survey: Recent Advancements and Remaining Challenges | 2024 | Intelligent Service Robotics | NULL    |
+|       |                                                              |      |                              |         |
+|       |                                                              |      |                              |         |
 
 ## Simulator
 
