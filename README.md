@@ -18,13 +18,14 @@ A curated list of FMCW-LiDAR papers and resources.
 | 2     | Extended Object Tracking with Doppler velocity-based Point Registration | 2023 | IEEE Symposium Sensor Data Fusion and International Conference on Multisensor Fusion and Integration | NULL                                   | AEVA’s Aeries II  FMCW LiDAR                 |
 |       |                                                              |      |                                                              |                                        |                                              |
 
-#### Odomentry
+#### Odometry
 
-| Index | Paper Title                                                  | Date | Reference | Code                                   | Device                   | Provide Open Datasets？                                      |
-| ----- | ------------------------------------------------------------ | ---- | --------- | -------------------------------------- | ------------------------ | ------------------------------------------------------------ |
-| 1     | Picking Up Speed: Continuous-Time Lidar-Only Odometry using Doppler Velocity Measurements | 2023 | RAL       | https://github.com/utiasASRL/steam_icp | Aeva Aeries I FMCW Lidar | [link](https://drive.google.com/file/d/1JpQNnXejow3qy1qp5tVzak9qnuFmjYHW/view) |
-| 2     | Need for Speed: Fast Correspondence-Free Lidar Odometry Using Doppler Velocity | 2023 | IROS      | NULL                                   | Aeva Aeries I FMCW Lidar | NULL                                                         |
-| 3     | FMCW-LIO: A Robust Doppler-Aided LiDAR-Inertial Odometry     | 2024 | RAL       | NULL                                   | ToDo                     | ToDo                                                         |
+| Index | Paper Title                                                  | Date | Reference | Code                                   | Device                    | Provide Open Datasets？                                      |
+| ----- | ------------------------------------------------------------ | ---- | --------- | -------------------------------------- | ------------------------- | ------------------------------------------------------------ |
+| 1     | Picking Up Speed: Continuous-Time Lidar-Only Odometry using Doppler Velocity Measurements | 2023 | RAL       | https://github.com/utiasASRL/steam_icp | Aeva Aeries I FMCW LiDAR  | [link](https://drive.google.com/file/d/1JpQNnXejow3qy1qp5tVzak9qnuFmjYHW/view) |
+| 2     | Need for Speed: Fast Correspondence-Free Lidar Odometry Using Doppler Velocity | 2023 | IROS      | NULL                                   | Aeva Aeries I FMCW LiDAR  | NULL                                                         |
+| 3     | FMCW-LIO: A Robust Doppler-Aided LiDAR-Inertial Odometry     | 2024 | RAL       | https://github.com/IMRL/FMCW-LIO       | Aeva Aeries II FMCW LiDAR | ToDo                                                         |
+| 4     | Free-Init: Scan-Free, Motion-Free, and Correspondence-Free Initialization for Doppler LiDAR-Inertial Systems | 2024 | RAL       | https://github.com/IMRL/FreeIni        | Aeva Aeries II FMCW LiDAR | ToDo                                                         |
 
 #### Detection/Segmentation/Tracking
 
@@ -56,8 +57,8 @@ A curated list of FMCW-LiDAR papers and resources.
 
 - Guangshao 2.0 FMCW LiDAR：http://www.laserradar.cn/
 
-- Aeva Aeries I FMCW Lidar：https://www.aeva.com/
-- Aeva Aeries II FMCW Lidar：https://www.aeva.com/aeries-ii/
+- Aeva Aeries I FMCW LiDAR：https://www.aeva.com/
+- Aeva Aeries II FMCW LiDAR：https://www.aeva.com/aeries-ii/
 
 ## TODO LIST
 
