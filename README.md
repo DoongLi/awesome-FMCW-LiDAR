@@ -60,6 +60,8 @@ A curated list of FMCW-LiDAR papers and resources.
 - Guangshao 2.0 FMCW LiDAR：http://www.laserradar.cn/
 - Aeva Aeries I FMCW LiDAR：https://www.aeva.com/
 - Aeva Aeries II FMCW LiDAR：https://www.aeva.com/aeries-ii/
+- Aeva Atlas FMCW LiDAR:  https://www.aeva.com/atlas/
+- Aeva Atlas Ultra FMCW LiDAR: https://www.aeva.com/atlas-ultra/ (will be available at 2026)
 
 ## TODO LIST
 
