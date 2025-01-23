@@ -56,6 +56,7 @@ A curated list of FMCW-LiDAR papers and resources.
 
 ## FMCW-LiDAR Device
 - Leishen LSLIDAR FMCW LiDAR：https://www.lslidar.com/ko/product/fmcw-lidar/
+- LAMBDA INNOVISION FMCW LiDAR：https://lambda-innovision.com/%ec%a0%9c%ed%92%88%ec%86%8c%ea%b0%9c/
 - Guangshao 2.0 FMCW LiDAR：http://www.laserradar.cn/
 - Aeva Aeries I FMCW LiDAR：https://www.aeva.com/
 - Aeva Aeries II FMCW LiDAR：https://www.aeva.com/aeries-ii/
