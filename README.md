@@ -3,6 +3,11 @@
 A curated list of FMCW-LiDAR papers and resources.
 
 ## Paper
+#### Object Detection
+
+| Index | Paper Title                                                  | Date | Reference | Datasets Link                                | Device         |
+| ----- | ------------------------------------------------------------ | ---- | --------- | -------------------------------------------- | -------------- |
+| 1     | HeLiMOS: A Dataset for Moving Object Segmentation in 3D Point Clouds From Heterogeneous LiDAR Sensors| 2024 | CVPR| https://sites.google.com/view/helimos | Aeva Aeries II |
 
 #### Datasets
 
