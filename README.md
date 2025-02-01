@@ -69,13 +69,16 @@ A curated list of FMCW-LiDAR papers and resources.
 - Aeva Atlas Ultra FMCW LiDAR: https://www.aeva.com/atlas-ultra/ (will be available at 2026)
 
 ## FMCW-LiDAR Parameter Setting(Lidar2IMU)
-- Aeva Aeries II FMCW LiDAR:
-        imu_x: 0.020 # unit: meter.
-        imu_y: 0.023 # unit: meter.
-        imu_z: -0.037 # unit: meter.
-        imu_rot_x_deg: 0.0
-        imu_rot_y_deg: 0.0
-        imu_rot_z_deg: 0.0
+- Aeva Aeries II FMCW LiDAR：https://www.aeva.com/aeries-ii/
+| Parameter       | Value  | Unit    | Description                                 |
+|-----------------|--------|---------|---------------------------------------------|
+| `imu_x`         | 0.020  | meter   | X-axis offset of the IMU                    |
+| `imu_y`         | 0.023  | meter   | Y-axis offset of the IMU                    |
+| `imu_z`         | -0.037 | meter   | Z-axis offset of the IMU                    |
+| `imu_rot_x_deg` | 0.0    | degree  | Rotation around the x-axis (in degrees)     |
+| `imu_rot_y_deg` | 0.0    | degree  | Rotation around the y-axis (in degrees)     |
+| `imu_rot_z_deg` | 0.0    | degree  | Rotation around the z-axis (in degrees)     |
+
 
 ## TODO LIST
 - Different models FMCW-LIDAR parameter comparison
