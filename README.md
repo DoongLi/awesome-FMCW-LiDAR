@@ -70,6 +70,7 @@ A curated list of FMCW-LiDAR papers and resources.
 
 ## FMCW-LiDAR Parameter Setting(Lidar2IMU)
 - Aeva Aeries II FMCW LiDAR：https://www.aeva.com/aeries-ii/
+  
 | Parameter       | Value  | Unit    | Description                                 |
 |-----------------|--------|---------|---------------------------------------------|
 | `imu_x`         | 0.020  | meter   | X-axis offset of the IMU                    |
