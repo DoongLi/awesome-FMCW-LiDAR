@@ -3,6 +3,12 @@
 A curated list of FMCW-LiDAR papers and resources.
 
 ## Paper
+#### Clustering
+
+| Index | Paper Title                                                  | Date | Reference | Datasets Link                                | Device         |
+| ----- | ------------------------------------------------------------ | ---- | --------- | -------------------------------------------- | -------------- |
+| 1     | Doppler velocity-based algorithm for Clustering and Velocity Estimation of moving objects| 2022 | CVPR| https://arxiv.org/abs/2112.12984|  custum made |
+
 #### Object Detection
 
 | Index | Paper Title                                                  | Date | Reference | Datasets Link                                | Device         |
