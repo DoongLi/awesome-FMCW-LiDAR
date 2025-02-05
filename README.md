@@ -20,7 +20,7 @@ A curated list of FMCW-LiDAR papers and resources.
 | Index | Paper Title                                                  | Date | Reference | Datasets Link                                | Device         |
 | ----- | ------------------------------------------------------------ | ---- | --------- | -------------------------------------------- | -------------- |
 | 1     | HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatial and Temporal Variations | 2024 | IJRR      | https://sites.google.com/view/heliprdataset/ | Aeva Aeries II |
-| 2     | HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-session Radar SLAM | 2025 | Nun| https://sites.google.com/view/herculesdataset | Aeva Aeries II |
+| 2     | HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-session Radar SLAM | 2025 | NULL| https://sites.google.com/view/herculesdataset | Aeva Aeries II |
 
 
 #### Point Cloud Registration
