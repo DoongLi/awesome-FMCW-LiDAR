@@ -75,6 +75,7 @@ A curated list of FMCW-LiDAR papers and resources.
 - Aeva Aeries II FMCW LiDAR：https://www.aeva.com/aeries-ii/
 - Aeva Atlas FMCW LiDAR:  https://www.aeva.com/atlas/
 - Aeva Atlas Ultra FMCW LiDAR: https://www.aeva.com/atlas-ultra/ (will be available at 2026)
+- SuZhou intellidar Scenery, Insight, Vast series FMCW LiDAR: [https://github.com/DoongLi/awesome-FMCW-LiDAR/blob/main/Doc/SuZhou-intellidar-doc.pdf](https://github.com/DoongLi/awesome-FMCW-LiDAR/blob/main/Doc/SuZhou-intellidar-doc.pdf)
 
 ## FMCW-LiDAR Parameter Setting(Lidar2IMU)
 - Aeva Aeries II FMCW LiDAR：https://www.aeva.com/aeries-ii/
