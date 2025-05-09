@@ -30,7 +30,7 @@ A curated list of FMCW-LiDAR papers and resources.
 | ----- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | -------------------------------------- | -------------------------------------------- |
 | 1     | DICP: Doppler Iterative Closest Point Algorithm              | 2022 | RSS                                                          | https://github.com/aevainc/Doppler-ICP | Aeva Aeries I FMCW Lidar and CARLA simulator |
 | 2     | Extended Object Tracking with Doppler velocity-based Point Registration | 2023 | IEEE Symposium Sensor Data Fusion and International Conference on Multisensor Fusion and Integration | NULL                                   | AEVA’s Aeries II  FMCW LiDAR                 |
-|       |                                                              |      |                                                              |                                        |                                              |
+| 3     | [Doppler Correspondence: Non-Iterative Scan Matching With Doppler Velocity-Based Correspondence](https://arxiv.org/pdf/2502.11461) | 2025 | RSS                                                          |                                        |                                              |
 
 #### Odometry
 
