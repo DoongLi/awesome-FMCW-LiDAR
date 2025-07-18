@@ -50,7 +50,7 @@ A curated list of FMCW-LiDAR papers and resources.
 | ----- | ------------------------------------------------------------ | ---- | --------- | ---- | ------------------------------------- | ------------- |
 | 1     | Learning Moving-Object Tracking with FMCW LiDAR              | 2022 | IROS      | NULL | Guangshao 2.0 FMCW LiDAR              | NULL          |
 | 2     | POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud | 2025 | arXiv     | NULL | Private dataset, 128-line FMCW LiDAR. | NULL          |
-
+| 3     | Simpler Is Better: Revisiting Doppler Velocity for Enhanced Moving Object Tracking with FMCW LiDAR | 2025 | IROS     | [https://github.com/12w2/DopplerTrack](https://github.com/12w2/DopplerTrack) |  | Yes         |
 
 #### Survey
 
