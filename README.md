@@ -22,7 +22,7 @@ A curated list of FMCW-LiDAR papers and resources.
 | ----- | ------------------------------------------------------------ | ---- | --------- | --------------------------------------------- | -------------- |
 | 1     | HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatial and Temporal Variations | 2024 | IJRR      | https://sites.google.com/view/heliprdataset/  | Aeva Aeries II |
 | 2     | HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-session Radar SLAM | 2025 | ICRA      | https://sites.google.com/view/herculesdataset | Aeva Aeries II |
-| 3     | AevaScenes Perception Dataset| 2025 | NULL     |(https://github.com/aevainc/aevascenes)| Aeva Aeries II |
+| 3     | AevaScenes Perception Dataset| 2025 | NULL     |https://github.com/aevainc/aevascenes| Aeva Aeries II |
 
 
 
@@ -44,7 +44,7 @@ A curated list of FMCW-LiDAR papers and resources.
 | 4     | Free-Init: Scan-Free, Motion-Free, and Correspondence-Free Initialization for Doppler LiDAR-Inertial Systems | 2024 | RAL       | https://github.com/IMRL/FreeIni           | Aeva Aeries II FMCW LiDAR | ToDo                                                         |
 | 5     | Efficient Doppler LiDAR Odometry using Scan Slicing and Vehicle Kinematics | 2024 | TIM       | https://github.com/NEU-REAL/4DLO          | Dataset                   | NULL                                                         |
 | 6     | [Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping](https://arxiv.org/pdf/2504.11634) | 2025 | arXiv     | https://github.com/Wayne-DWA/Doppler-SLAM | NULL                      | NULL      
-| 7     |Balancing Act: Trading Off Doppler Odometry and Map Registration for Efficient Lidar Localization(https://arxiv.org/pdf/2503.02107). | 2025 | arXiv     | NULL| NULL                      | NULL  |
+| 7     | Balancing Act: Trading Off Doppler Odometry and Map Registration for Efficient Lidar Localization(https://arxiv.org/pdf/2503.02107). | 2025 | arXiv     | NULL| NULL                      | NULL  |
 
 #### Detection/Segmentation/Tracking
 
@@ -102,6 +102,7 @@ A curated list of FMCW-LiDAR papers and resources.
 ## TODO LIST
 
 - Different models FMCW-LIDAR parameter comparison
+
 
 
 
