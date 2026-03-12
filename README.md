@@ -72,7 +72,7 @@ A curated list of FMCW-LiDAR papers and resources.
 | Index | Paper/Project Title                                          | Reference                                           | Authors | Date |
 | ----- | ------------------------------------------------------------ | --------------------------------------------------- | ------- | ---- |
 | 1     | Applications of Mobile LiDAR for Ultra-High Resolution and GPS-Denied Terrain Mapping in Planetary Analog Environments | 54th Lunar and Planetary Science Conference (LPSC). | NASA    | 2023 |
-|       |                                                              |                                                     |         |      |
+| 2     | Degeneracy-Resilient Teach and Repeat for Geometrically Challenging Environments Using FMCW Lidar         |  arXiv |               University of Toronto                                      |    2025     |   
 |       |                                                              |                                                     |         |      |
 
 ## FMCW-LiDAR Device
@@ -103,6 +103,7 @@ A curated list of FMCW-LiDAR papers and resources.
 ## TODO LIST
 
 - Different models FMCW-LIDAR parameter comparison
+
 
 
 
